@@ -22,3 +22,5 @@ A recoil script for rust, uses ImGUI. Has a good looking menu.
 - Its always possible, but the chances are low. If you are unsure about using this script, use VMP obfuscator and obfuscate the script.
 
 
+
+![Screenshot](revscript.png)
